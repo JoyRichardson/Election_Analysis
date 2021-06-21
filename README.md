@@ -1,2 +1,2 @@
 # Election_Analysis
-Python for CO election results
+Python for CO election analysis
